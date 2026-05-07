@@ -1,4 +1,19 @@
-## Hi there 👋
+# Hi 👋
+
+Saya sedang belajar:
+- Laravel
+- Nuxt
+- API
+- Git
+
+## Tech Stack
+- Laravel
+- Vue
+- Nuxt
+- MySQL
+
+## Current Project
+- Sistem Laporan
 
 <!--
 **chopie17/chopie17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
